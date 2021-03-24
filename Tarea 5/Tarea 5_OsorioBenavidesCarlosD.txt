@@ -1,0 +1,12 @@
+Concepto de organización en centros de cómputos.
+
+Podría ser el proceso que nos ayuda a facilitar el funcionamiento y manejo
+de un centro de computo, así determinando las actividades que se tienen que llevar
+a cabo para poder asignarlas a los integrantes que corresponda y forma un tipo de estructura 
+organizada.
+
+Ejemplo.
+
+Dividir y repartir tareas a los encargados o integrantes de un centro de cómputo
+para que cada integrante se encargar de procesos específicos y se tenga una estructura
+de las tareas que debe llevar cada uno.
